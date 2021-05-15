@@ -1,5 +1,4 @@
-- query: Hello
-  followers_count: 10000
-  favorite_count: 100
-  retweet_count: 100
-
+- query: remote
+  followers_count: 1000
+  favorite_count: 0
+  retweet_count: 0

@@ -16,6 +16,7 @@
   "dependencies": {
     "@slack/webhook": "^6.0.0",
     "bluebird": "^3.7.2",
+    "csv-writer": "^1.6.0",
     "dotenv": "^8.2.0",
     "got": "^11.7.0",
     "js-yaml": "^4.0.0",
